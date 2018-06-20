@@ -1,6 +1,10 @@
 <template>
   <article>
     <h1>{{ title }}</h1>
+    <h2>{{ date }}</h2>
+    <p>
+      {{ body }}
+    </p>
   </article>
 </template>
 
